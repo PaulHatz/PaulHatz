@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+
+# Hi there, I'm Paul! 👋
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-paulhatz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulhatz)](https://www.linkedin.com/in/paulhatz/)  
+
+I'm an enthusiastic software developer and Computer Science student!  
+I taught myself how to program as a hobby and now I'm pursuing a career in Computer Science!
 
 <!--
 **PaulHatz/PaulHatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
